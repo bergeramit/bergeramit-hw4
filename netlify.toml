@@ -1,0 +1,9 @@
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["data.db"]   # bundle your sqlite DB with the function
+
+[[redirects]]
+  from = "/county_data"
+  to = "/.netlify/functions/county_data"
+  status = 200
+  force = true
