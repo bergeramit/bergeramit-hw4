@@ -1,1 +1,1 @@
-cs1060-hw4-bergeramit.netlify.app/county_data
+https://cs1060-hw4-bergeramit.netlify.app/county_data
